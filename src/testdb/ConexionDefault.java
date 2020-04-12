@@ -17,10 +17,10 @@ import java.util.logging.Logger;
  */
 public class ConexionDefault {
  
-    private final String DB="w4dWH3DJs3";
+    private final String DB="82tKPmb7N4";
     private final String URL="jdbc:mysql://remotemysql.com:3306/"+DB+"?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";;
-    private final String USER="w4dWH3DJs3";
-    private final String PASS="ijDexCgyV4";
+    private final String USER="82tKPmb7N4";
+    private final String PASS="PEj1lWembc";
     
     public void openConnection() {
         
